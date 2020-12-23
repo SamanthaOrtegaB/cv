@@ -1,0 +1,28 @@
+body{
+  background-color: #EAF6F6;
+  margin: 30px;
+  font-family: Maven Pro;
+}
+hr{
+  background-color: #EAF6F6;
+  border-color: gray;
+  border-style: dotted;
+  height: 0;
+  width: 5%;
+  border-width: thick;
+  border-bottom: none;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+th{
+  color: #66BFBF;
+}
+.top{
+  text-align: justify;
+  position: relative;
+  margin-left: 250px;
+}
